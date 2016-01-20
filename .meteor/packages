@@ -1,0 +1,70 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+# Meteor
+
+accounts-ui
+accounts-password
+accounts-meteor-developer
+standard-app-packages
+email
+service-configuration
+meteor-developer
+accounts-oauth
+oauth
+http
+ejson
+reactive-dict
+
+# 3rd-party
+
+chuangbo:marked
+mrt:moment
+sacha:spin
+tmeasday:crypto-base
+matteodem:keybindings
+dburles:collection-helpers
+aldeed:simple-schema
+aslagle:reactive-table
+matb33:collection-hooks
+percolatestudio:percolatestudio-migrations
+meteortoys:allthings
+
+meteorhacks:npm
+cosmos:browserify
+
+kadira:flow-router
+kadira:blaze-layout
+arillo:flow-router-helpers
+meteorhacks:picker
+
+tmeasday:publish-counts
+
+# Local
+
+#fitvids
+#intercom
+#mailchimp
+#static-collections
+#mixpanel
+#qs
+#local-analytics
+#billing
+
+# CSS Stuff
+seba:minifiers-autoprefixer
+meta:susy
+fourseven:scss
+force-ssl
+
+# React
+
+react
+react-template-helper
+kadira:react-layout
+
+utilities:meteor-griddle
+
+npm-container
